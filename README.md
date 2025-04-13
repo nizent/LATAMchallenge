@@ -1,8 +1,8 @@
 # Data Platform Team Lead - Technical Challenge
 
-## Diagram in architecture.jpeg
+## → Diagram in architecture.jpeg
 
-## Description in description.pdf
+## → Description in description.pdf
 
 ## Scenario: Federated Data Ingestion & Processing on GCP
 You've recently joined a global airline group operating in multiple regions. Each region has developed its own local data infrastructure, storing data in regional GCP projects across various formats and systems, including BigQuery, Cloud Storage, and some PostgreSQL on CloudSQL instances.
